@@ -6,7 +6,8 @@
                 Implementations: 
                     {
                         - PHP OOP
-                        - PHP OOP
+                        - PHP MVC
+                        - PHP DAO
                     }
              -->
             <h2><a href="index.php?action=show" class="text-light">CMSP-PHP</a></h2>
